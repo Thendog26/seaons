@@ -1,2 +1,4 @@
 # Seasons
-Note: I was unable to upload the React library files (due to the file upload limit) so the code won't work without those libraries.
+A small react application that takes your location, determines whether or not you're in summer or winter, and uses that info to display a fun catchphrase. 
+
+This application was bootstrapped with Create React App.
